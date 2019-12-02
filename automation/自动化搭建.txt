@@ -1,0 +1,50 @@
+注意事项：
+1、安装的版本位数统一【32】或者【64】
+7、如在dos命令下报错“不是内部指令”，在环境变量path下添加Python，pycharm，Python/scripts的路径
+8、安装的驱动需对应版本，列如Python3.6对应mysql驱动pymysql
+9、如遇破解或注册问题直接百度搜索对应版本破解方法，pycharm激活码，比较好用的连接：https://blog.csdn.net/github_38358734/article/details/70477855
+10、如果安装oracle客户端需安装时选择最费内存的选项    直接搜索oracle驱动cx_oracle,选择对应版本下载后到对应路径下导入 cmd pip install 文件名
+
+开始搭建步骤：
+2、安装Python3.6    安装pycharm2.1.4
+注册码
+http://intellij.mandroid.cn/ 
+http://idea.imsxm.com/ 
+http://idea.iteblog.com/key.php
+3、在Python安装路径下添加浏览器驱动
+4、安装selenium    cmd  pip install selenium
+5、安装mysql及其客户端
+6、安装数据库驱动pymysql  cmd pip install pymysql
+
+pip install 下面的常用库
+Appium-Python-Client	0.46	0.46
+Click	7.0	
+Django	2.2.2	2.2.3
+
+PyMySQL	0.9.3	0.9.3
+PyYAML	5.1.1	5.1.1
+
+
+configobj	5.0.6	5.0.6
+configparser	3.7.4	3.7.4
+
+ddt	1.2.1	1.2.1
+
+lxml	4.3.4	4.3.4
+
+openpyxl	2.6.2	2.6.2
+
+pip	19.1.1	19.1.1
+pyasn1	0.4.5	0.4.5
+pycryptodome	3.8.2	3.8.2
+pycurl	7.43.0.2	7.43.0.3
+pyquery	1.4.0	1.4.0
+pyspider	0.3.10	0.3.10
+python-dateutil	2.8.0	2.8.0
+pytz	2019.1	2019.1
+requests	2.22.0	2.22.0
+rsa	4.0	4.0
+selenium	3.141.0	4.0.0a1
+
+urllib3	1.25.2	1.25.3
+xlrd	1.2.0	1.2.0

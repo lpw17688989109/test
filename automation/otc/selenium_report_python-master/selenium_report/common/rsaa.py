@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+import rsa
+import base64
+from Crypto.PublicKey import RSA
+from Crypto.Cipher import PKCS1_v1_5
+from Crypto import Random
+
+privateKeyStr = "MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAJmv0aBuwl0nGBPnRSPi0hrQqVUC4dHbxtunb0XMhcPn1FYg3FITUwrBDU75IPNJ7bJxixDIoyPmSZp30JEMG4C5A2N8nqTXRfiwuw2zaOu2UVj6W0+wx+ZTD4vSD41+3WhOaLmO0klMKj/9AndGhvreEoul6QPUxOjGWhHEUlNFAgMBAAECgYBYiNqgK244r57FSIOiCrayz+XcnU5t0MgcHbaSZSHiG5lNDJ0fgxZhqZj7F7WNsdcG5zYPsyWYNr/MBp3WET19409/K0OIK/+iwCZeFPn8wlnmzAxdkNEcl8yLM9mIcKQqBGtkUYKJKeKQIKX3SLaDLC9jZJ6dKMPS+QYpqMUBeQJBAM/FazPSEA4qXzFKsoXBC/WnIGtk2yx6pan17gr7ZFKcDbi9RuWrfAcSHpfw7UgMCV2TyeW7RkCBAopGakaXGPMCQQC9XH5VnCgwPoBzgsHsrqgUl6k6P/YB4F8Zkj0mQwOGaGuE24Sw/3SWqxwSC2VqBi4JH4to6RgGXWWOwN7QzfDnAkEAgUF8/sEJMfbUP7MLusAtM4bkWUtmOpaWZ1TS4Uwhzm687pf5+jmjsDZqh/Xfd/nc/bVKXjwSaWCY9vL1fLLVVwJBAKg3gXc1yLHK5Ds4/mLuaRwZ+lhnt3fFRVYnBjF2OKxvGIymocLGvGCYUtBo1UeRg9XQ8vxYjWIiF/Tvu0CMoiMCQBJ79koIJ4zYa7fNgbSNQ6LNFWuBbf2GJPsROSj0jmO2Ms6amrLKP5jxIrw7m9Ea4J2D8Mbj6L+t+PRwWSOlYQ4="
+publicKeyStr = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZr9GgbsJdJxgT50Uj4tIa0KlVAuHR28bbp29FzIXD59RWINxSE1MKwQ1O+SDzSe2ycYsQyKMj5kmad9CRDBuAuQNjfJ6k10X4sLsNs2jrtlFY+ltPsMfmUw+L0g+Nft1oTmi5jtJJTCo//QJ3Rob63hKLpekD1MToxloRxFJTRQIDAQAB"
+
+key = RSA.importKey(base64.b64decode(publicKeyStr))
+pkcs1 = PKCS1_v1_5.new(key)
+encryptStr = pkcs1.encrypt("wulaoban".encode())
+print(encryptStr)
+
+cipher_pri_obj = PKCS1_v1_5.new(RSA.importKey(base64.b64decode(privateKeyStr)))
+dencryptStr = cipher_pri_obj.decrypt(encryptStr, Random.new().read)
+plain_text = dencryptStr.decode()
+print(plain_text)

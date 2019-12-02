@@ -1,0 +1,314 @@
+http://fnng.cnblogs.com/ 
+
+虫师自动化
+
+http://blog.csdn.net/sinat_35767703/article/details/67632975
+解决32位plsql_Developer客户端连接不64位Oracle11g上数据库
+
+WebDriver学习笔记（八）windows弹窗（警告弹窗）处理
+http://blog.csdn.net/meyoung01/article/details/13996685
+
+python+selenium之数据库连接
+http://www.cnblogs.com/fengyiru6369/p/7205587.html 
+
+selenium + python自动化测试环境搭建
+http://www.cnblogs.com/fnng/archive/2013/05/29/3106515.html
+
+老师的Ｐｙｔｈｏｎ教程
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014316399410395f704750ee9440228135925a6ca1dad8000
+
+Python 3.6学习笔记（一）
+http://www.cnblogs.com/cocowool/p/6599855.html
+
+
+测试课堂，应有精油
+http://www.testclass.net/
+
+一百selenium教程
+http://www.yiibai.com/selenium/selenium_check_box.html
+
+
+py3学习教程
+http://www.runoob.com/python3/python3-basic-syntax.html
+
+selenium 如何处理table
+http://blog.csdn.net/gzh0222/article/details/7568490
+
+EXT框架Web应用Selenium自动化之XPath
+http://blog.csdn.net/w565911788/article/details/7616966
+
+学习接口测试的看过来，拿走不谢 https://ke.qq.com/course/225656#tuin=aa023e4b 
+
+如何定位性能瓶颈
+http://blog.csdn.net/smooth00/article/details/63680191
+
+【jmeter测试--自带录制脚本功能】
+http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece7631046893b4c4380146d96864968d4e414c42246020461e0bd21211a00d8c2613441e9120db4a72b24604573ecc589954ddcb89829298d26203541c6171d8b46f88d1165d621e04d98af0e97cbe74497b9a3d7c85422dd22026df1f79c2a0103be19e71541f4d79f5f665e07cb9e271589&p=882a9644d78012a05aaed12b51508d&newp=8b2a970286cc42ae59a7c26555439d231610db2151d7d71f6b82c825d7331b001c3bbfb423241002d0c37c640aa54e5eedf034793d0425a3dda5c91d9fb4c57479cf&user=baidu&fm=sc&query=jmeter%C2%BC%D6%C6+%C5%C5%B3%FD%C4%A3%CA%BD&qid=b5f2ea49000050b1&p1=1 
+
+测试课堂2
+http://bologe.net/forum.php
+
+使用PyMySQL操作mysql数据库 
+https://www.cnblogs.com/W-Kr/p/5456810.html
+
+定位等函数不回显时是因为没有指定浏览器
+
+
+
+Selenium3.0 自动化测试   环境介绍及相关下载
+https://www.cnblogs.com/fnng/p/5932224.html
+
+Selenium2 Python 自动化测试实战学习笔记   
+ http://blog.csdn.net/henni_719/article/details/51096531
+
+
+
+学习论坛：https://www.v2ex.com/
+
+Python自动化四大名著
+Python自动化四大名著：
+selenium书：https://yuedu.baidu.com/ebook/0f6a093b7dd184254b35eefdc8d376eeaeaa17e3
+python接口自动化书：https://yuedu.baidu.com/ebook/585ab168302b3169a45177232f60ddccda38e695
+python接口开发书：https://yuedu.baidu.com/ebook/8288e33e59fb770bf78a6529647d27284b7337b1
+appium自动化：https://yuedu.baidu.com/ebook/7d75728ca0c7aa00b52acfc789eb172ded63991c
+
+
+http://www.cnblogs.com/yoyoketang/p/6538505.html     判断元素大集
+
+对js不太熟悉的，可以网上找下教程，简单了解些即可。
+http://www.w3school.com.cn/js/index.asp4
+
+上海悠悠的博客
+http://www.cnblogs.com/yoyoketang/tag/selenium/
+
+测试业界技术文章专用博客
+https://blog.csdn.net/cyjs1988/article/category/7046858
+
+
+火狐驱动下载地址
+https://github.com/mozilla/geckodriver/releases
+
+谷歌驱动下载地址
+http://chromedriver.storage.googleapis.com/index.html
+
+我要自学网，很全。
+账号  lipingwei      lpw0809_
+账号  lpwxuexi     21f51c
+http://www.51zxw.net/list.aspx?page=5&cid=615
+http://www.51zxw.net/list.aspx?page=5&cid=615
+
+
+
+js脚本连接：http://www.miniui.com/docs/api/index.html
+
+js脚本强大版：http://www.w3school.com.cn/
+
+虫师博客：http://www.cnblogs.com/fnng/p/3160606.html
+
+在线合图片
+
+
+生成测试报告
+一、导入HTMLTestRunner
+
+1.这个模块下载不能通过pip安装了，只能下载后手动导入，下载地址：http://tungwaiyip.info/software/HTMLTestRunner.html
+
+
+解决测试报告问题：https://blog.csdn.net/NV_li_JCF/article/details/77159022
+
+关于缓存，的理解
+这一块最好是自己开发一个网站实践一下，理解比较透彻。从cookie里面是jsessionid，而且是大写的来看，应该这个网站后台是java的servlet标准，你可以试试用servlet/jsp写两个网页来理解session和cookie的配合
+
+https://blog.csdn.net/windanchaos/article/details/70214562    解决重复登录问题
+http://www.spiderpy.cn/blog/detail/36   Python Webdriver 重新使用已经打开的浏览器实例
+
+
+http://www.oracle.com/technetwork/java/archive-139210.html   jdk下载路径
+
+
+http://tomcat.apache.org/   Tomcat下载路径
+
+
+https://www.cnblogs.com/wangxiaoqun/p/6924797.html
+
+
+https://blog.csdn.net/lovesoo/article/details/78558303   接口教程
+
+https://blog.csdn.net/lovesoo/article/details/78558303    关联较多，建议花时间弄明白
+
+https://www.cnblogs.com/liuneng/p/8289041.html     接口自动化-初级版
+
+解决Python读取文件报错读取txt文件报错：UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc8 in position 0
+https://blog.csdn.net/xxceciline/article/details/80405129
+
+
+Jenkins    http://localhost:8080/     用户： admin      密码： lipingwei
+
+http://www.cnblogs.com/duxiuxing/p/4666180.html      Android SDK的下载和安装官网链接
+http://www.androiddevtools.cn/                                     Android SDK的下载和安装链接
+
+
+https://sz12333.gov.cn/szhr_pubtalent/talent_login.jsp   人社局网站
+
+# coding:utf-8
+
+https://www.cnblogs.com/fnng/p/8185172.html    APP测试相关，提供APP产品
+
+http://www.testclass.net/appium/#    虫师的测试课堂
+https://www.cnblogs.com/Javame/p/3968343.html  Linux学习初级中级高级
+
+Chrome驱动：http://npm.taobao.org/mirrors/chromedriver/
+
+Firefox驱动：https://github.com/mozilla/geckodriver/releases/
+
+IE驱动：http://selenium-release.storage.googleapis.com/index.html
+
+Operadriver(Opera): https://github.com/operasoftware/operachromiumdriver/releases 
+
+MicrosoftWebDriver(Edge): https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver
+
+Phantomjs(PhantomJS): http://phantomjs.org/download.html
+
+https://blog.csdn.net/a379850992/article/details/55655495   SQL经典面试题
+
+熟悉posrman 发包， 抓包 fiddler， 框架 pytest 要会，  基本的requests 要会， 并能知道如何 保持会话， 要知道http， 数据关联， webservice测试， 常用接口加密的方法 
+
+
+手机云真机：http://www.fairytest.com/newversion/realmachineindex#pro2
+
+https://blog.csdn.net/a379850992/article/details/55655495   SQL经典面试题
+
+熟悉posrman 发包， 抓包 fiddler， 框架 pytest 要会，  基本的requests 要会， 并能知道如何 保持会话， 要知道http， 数据关联， webservice测试， 常用接口加密的方法 
+
+
+
+https://www.cnblogs.com/ghost-xyx/p/3811036.html
+
+ 
+
+https://www.cnblogs.com/lansan0701/p/8039332.html   Python3安装cx_Oracle连接oracle数据库实操总结--很详细有用
+
+
+
+https://www.cnblogs.com/xiongwei/p/3298053.html  Python学习笔记
+
+
+https://www.cnblogs.com/houzhizhe/category/1012304.html    Python学习笔记
+
+
+https://www.cnblogs.com/wushuaishuai/p/7683252.html   Python练习题等
+
+
+https://www.cnblogs.com/xiongwei/p/3298053.html    比较全
+
+
+https://www.chromedownloads.net/chrome64win/  谷歌浏览器历史版本
+
+
+https://jingyan.baidu.com/article/0aa223754076f788cc0d6492.html   阻止谷歌浏览器自动更新
+
+
+https://blog.csdn.net/zhu940923/article/details/81129122    谷歌浏览器驱动和和浏览器映射表
+----
+
+
+https://www.jianshu.com/p/491d6590b2a0   python3 Python3 内置
+
+http.client,urllib.request及三方库requests发送请求对比----有接口鉴权方式，各种方法获取鉴权方式以及传参数进行接口测试
+
+
+
+
+https://blog.csdn.net/cbzcbzcbzcbz/article/details/78023327  jmeter压测教程，添加监控CPU，内存教程，添加缓存教程
+
+
+https://www.cnblogs.com/saryli/p/6596647.html  jmeter 添加相关插件链接教程
+
+
+
+https://www.cnblogs.com/liulinghua90/p/9257548.html   jmeter处理JSESSIONID等缓存
+
+
+
+https://blog.csdn.net/cloud_huan/article/details/72822621  jmeter监控机器性能指标，CPU，memory等
+
+
+
+https://www.cnblogs.com/aland-1415/p/6613449.html  python从入门到开车
+
+
+https://www.cnblogs.com/yangxia-test/category/431240.html  jmeter学习
+
+纯前端优秀功能用例参考
+
+https://blog.csdn.net/qq_38128179/article/details/85259273
+
+容易遗漏的
+
+bug
+https://www.cnblogs.com/nancyzhu/p/8035042.html jmeter接口测试，比较优秀
+
+
+https://www.jb51.net/article/120484.htm  linux下定时执行脚本，还不错
+
+
+https://www.cnblogs.com/engeng/p/6803061.html   Linux上安装
+
+Python
+https://www.cnblogs.com/tssc/p/7762998.html    Linux下升级安装Python-3.6.2版本（后续操作挺重要）
+
+
+https://www.cnblogs.com/qq874455953/p/9589207.html   Linux定时执行Python脚本相关
+
+
+
+
+https://www.cnblogs.com/101718qiong/category/1059473.html   安妮的selenium，看了感觉还不错
+
+
+https://www.cnblogs.com/star91/p/5059222.html   jmeter接口性能测试，看了下写的挺好
+
+
+https://blog.csdn.net/sinat_40751643/article/details/82384570    python ping域名返回一个具体ip地址
+
+
+
+https://blog.csdn.net/parker007/article/details/82882389   jmeter参数关联
+
+
+https://blog.csdn.net/czc1009/article/details/82425086  一份不错的jmeter压测报告
+
+
+http://www.cnblogs.com/SH-xuliang/p/9242603.html   Jmeter查看QPS和响应时间随着时间的变化曲线
+
+
+
+
+加载java 环境配置
+https://www.cnblogs.com/hearbeat/p/9415288.html   jmeter参数关联
+
+https://www.jianshu.com/p/4ba20afacce2
+
+
+numpy  解决Python计算精度不正确问题
+
+
+
+
+https://www.cnblogs.com/wqpkita/p/7248525.html  pip install  下载慢问题
+
+
+
+https://www.cnblogs.com/fighter007/p/9514453.html   Python还不错
+
+Python Decimal解决浮点数计算不正确问题
+
+
+http://www.ha97.com/5095.html  性能指标
+
+https://www.cnblogs.com/xixihuang/p/5825308.html   笨办法学Python
+
+
+https://blog.csdn.net/u011541946/article/details/77142045   monkey  SDK下载和安装教程
+浏览器打开www.android-studio.org   点击下载，然后选择下载windows版本的SDK。
+https://blog.csdn.net/qq_34659777/article/details/81775634#1_JDKSDK_5   monkey使用教程

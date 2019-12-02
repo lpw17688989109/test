@@ -1,0 +1,6 @@
+查询24小时交易量：
+
+select sum(t.purchase_quantity) from tb_exchange_order  t where  (t.transaction_symbol=20 or t.transaction_symbol=10) and (t.purchase_symbol=10 or t.purchase_symbol=20) and t.create_time>='2019-10-17'; 
+
+
+  

@@ -1,0 +1,2 @@
+ explain select'true' as QUERYID, Id, user_id, coin_id, coin_key, balance, freezing_balance, total_price, coin_index,
+    version, create_time, update_time  from tb_popcoin_user_coin WHERE (  user_id = 1000421  and coin_id = 20 );
